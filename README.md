@@ -2,10 +2,10 @@
 
 <div align="center">
   <h2>Notes from the person who forked this template</h2>
-  <p>I have gotten a huge amount of mileage from this template, and have started and completed many projects using this template. However, if I'm creating a prototype or a very small project, it's tedious to remove all of the excessive junk that would normally be useful for non-small projects.</p>
-  <p>So, I removed as much as I could except for the bare minimum needed to get a super small project or prototype going as quickly as possible.</p>
-  <p>Thanks to Theodorus for making this template.</p>
-  <p>Below this div is the original README for the template, unmodified.</p>
+  <p align="left">I have gotten a huge amount of mileage from this template, and have started and completed many projects using this template. However, if I'm creating a prototype or a very small project, it's tedious to remove all of the excessive junk that would normally be useful for non-small projects.</p>
+  <p align="left">So, I removed as much as I could except for the bare minimum needed to get a super small project or prototype going as quickly as possible.</p>
+  <p align="left">Thanks to Theodorus for making this template.</p>
+  <p align="left">Below this div is the original README for the template, unmodified.</p>
 </div
 
 <div align="center">
