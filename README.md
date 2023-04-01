@@ -2,7 +2,7 @@
 
 <div align="center" mb="16px">
   <h2>Notes from the person who forked this template</h2>
-  <p align="left">I have gotten a huge amount of mileage from the original template, and have started and completed many projects using it. However, if I'm creating a prototype or a very small project, it's tedious to remove all of the excessive junk that would normally be useful for non-small projects.</p>
+  <p align="left">I have gotten a huge amount of mileage from the original template, and have started and completed many projects using it. However, if I'm creating a prototype or a very small project, it's tedious to remove all of the excessive junk that would normally be useful for non-small projects, such as jest, the colors.css file, most of the components, the example pages, and then a collection of small things</p>
   <p align="left">So, I removed as much as I could except for the bare minimum needed to get a super small project or prototype going as quickly as possible.</p>
   <p align="left">Thanks to Theodorus for making this template.</p>
   <p align="left">Below this div is the original README for the template, unmodified.</p>
